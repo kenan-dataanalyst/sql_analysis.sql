@@ -21,5 +21,5 @@ job_role, city_tier, performance_score, num_skills, remote_work, annual_salary_u
   High School məzunları arasında performans balında demək olar ki, fərq yoxdur
   
 ## Faylda nə var?
-'sql_analysis.sql' faylında 10 analitik sorğu var — hər sorğunun altında 
+`sql_analysis.sql` faylında 10 analitik sorğu var — hər sorğunun altında
 tapılan nəticə (insight) şərh olaraq yazılıb.
